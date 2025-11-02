@@ -1,0 +1,285 @@
+ .navbar-default .navbar-nav>li>a
+{
+	padding-left:80px !important;
+	color:#1e3860; 
+	font-size:20px;
+    margin-top:17px;
+}		
+ .navigationbars{
+	background-color: #1e3860;
+	}
+.nav1	{
+	color:white !important;
+	font-size:20px;
+	font-weight:bold;
+}	 
+ .gly{
+	  font-size:10px;
+  }
+.login{
+	font-size:20px;
+    margin-top:20px;
+	padding-left:20px;
+	background-color: #2f5b88;
+	color:white;
+}
+.compare{
+	font-size:20px;
+    margin-top:20px;
+	padding:20px 30px 20px 30px;
+	background-color: #2f5b88;
+	color:white;
+}
+
+.intro{
+	font-size:20px;
+	color:#13818b;
+	font-weight:bold;
+}
+.intro1{
+	color:#1e3860;
+    font-size:45px;
+}
+.ratings{
+	background-color:#1e3860;
+	color:white;
+	font-weight:bold;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-top:40px;
+}
+.border{
+	border-right:1px solid white ;
+}
+.feature{
+	color:#1e3860;
+	font-weight:bold;
+	font-size:40px;
+	text-align:center;
+}
+.feature1{
+
+	font-size:16px;
+	text-decoration-line:underline;
+	text-align:center;
+}
+
+.app{
+	color:white;
+	font-size :15px;
+	border-radius :20px;
+	padding-top :40px;
+	padding-bottom :40px;
+	background-color:#1e3860 ;
+	margin-top:40px;
+}
+.text1{
+	color:#87b9d7;
+	font-weight:bold;
+	font-size :18px;
+}
+.text2{
+	line-spacing:1.6em;
+	font-weight:bold;
+	
+}
+.text3{
+	font-size :20px;
+	line-height:1.6em;
+}
+.axos1{
+	color:#1e3860;
+    font-weight:bold;
+}
+.axos2{
+	font-size :16px;
+	line-height:1.6em;
+}
+.apply{
+	font-size:20px;
+    margin-top:20px;
+	padding:10px 30px 10px 30px;
+	background-color: #2f5b88;
+	color:white;
+	margin-bottom:25px;
+}
+.details{
+	color:#2f5b88;
+	font-size :18px;
+}
+.solution{
+	margin-top:30px;
+}
+.solution1{
+	color:#1e3860;
+    font-weight:bold;
+	margin-top:75px;
+}
+.solution2{
+	font-size :16px;
+	line-height:1.6em;
+}
+.learn{
+	color:#2f5b88;
+	font-size :18px;
+}
+.cal1{
+	color:#1e3860;
+    font-weight:bold;
+	line-height:1.2em;
+	font-size :33px;
+	margin-top:50px;
+}
+.cal2{
+	color:#2f5b88;
+	font-size :18px;
+	margin-left:70px;
+}
+.calci1{
+	color:#1e3860;
+    font-weight:bold;
+}
+.calci2{
+	color:#2f5b88;
+	font-size :18px;
+}
+.calci{
+	border:1px solid #d4d4d4;
+	border-radius :20px;
+	padding-top :30px;
+	padding-bottom :20px;
+}
+.why{
+	color:#1e3860;
+    font-weight:bold;
+	font-size :40px;
+	margin-top:40px;
+}
+.why1{
+	color:#1e3860;
+	font-size :30px;
+	padding-bottom :10px;
+}
+.why2{
+	line-height:1.6em;
+	font-size :16px;
+	letter-spacing:1px;
+}
+.whybox{
+	background-color:#def4ff;
+	padding-bottom :20px;
+}
+.article1{
+	color:#1e3860;
+    font-weight:bold;
+	line-height:1.2em;
+	font-size :33px;
+	margin-top:50px;
+}
+.article2{
+	color:#2f5b88;
+	font-size :18px;
+	margin-left:175px;
+}
+.article{
+	color:#1e3860;
+    font-weight:bold;
+	font-size :23px;
+	line-height:1.3em;
+}
+.articles{
+	line-height:1.6em;
+	font-size :15px;
+	letter-spacing:1px;
+	padding-bottom :20px;
+}
+.readmore{
+	color:#2f5b88;
+	font-size :18px;
+}
+.ques{
+	font-weight:bold;
+	font-size :33px;
+	margin-top:30px;
+	text-align:center;
+}
+.quest{
+	font-weight:bold;
+	font-size :25px;
+}
+.box{
+	border:1px solid hidden;
+	border-radius :20px;
+	background-color:#20374f;																														
+	color:white;
+}
+.questions{
+	background-color:#14263d;
+	color:white;
+	padding-bottom:50px;
+}
+.b{
+	background-color:#d4d4d4;
+	color:#2f5b88;
+	font-size:14px;
+	border-radius:10px;
+    padding:20px 40px 20px 20px;
+	font-weight:bold;
+	margin-top:40px;
+}
+.headertop{
+	border-bottom:1px solid #dedede;
+	padding-bottom:10px;
+	color:#1e3860;
+	font-size:40px;
+}
+.header{
+	color:#1e3860;
+	font-size:20px;
+}
+.footer{
+	color: #fff;
+    background-color:#14263d ;
+    padding: 32px 0;
+    width: 100%;
+	font-size:16px;
+}
+.bank, .borrow, .invest, .plan{
+	background-color: #1e3860;
+	color:white;			
+	padding-bottom:	40px;
+	padding-top:15px;
+ 	border-radius:20px;
+}	
+.heading1{
+    font-weight:bold;
+	font-size:23px;
+	color:white;
+}
+.help{
+	color: #1e3860;
+	font-size:14px;
+	font-weight:bold;
+	margin-right:30px;
+}
+.header1{
+	color: #1e3860;
+    font-size:24px;
+}		
+.header{
+	font-size:18px;
+	font-weight:bold;
+}
+.paragragh{
+   font-size:18px;
+}
+.learnmore1, .quote, .getapp{
+	color:	#2f5b88;	
+	font-size:16px;
+	font-weight:bold;
+}
+.list{
+   margin-top:10px;font-size: 16px;
+   line-height: 1.6;
+   margin-left:10px;	color:	black;		
+}

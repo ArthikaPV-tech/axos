@@ -1,0 +1,306 @@
+ .navbar-default .navbar-nav >li>a
+{
+	padding-left:80px !important;
+	color:#1e3860;
+	font-size:20px;
+    margin-top:17px;
+}
+.nav1	{
+	color:white !important;
+	font-size:25px;
+	font-weight:bold;
+}		
+ .navigationbars{
+	background-color: #1e3860;
+	}
+ 
+  .gly{
+	  font-size:15px;
+  }
+.login{
+	font-size:20px;
+    margin-top:20px;
+	padding-left:20px;
+	background-color: #2f5b88;
+	color:white;
+}
+.rights{
+	margin-right:20px;
+}
+.banker{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.intro{
+	font-size:19px;
+	color:#2f5b88;
+	font-weight:bold;
+	margin-top:20px;
+}
+.intro1, .save{
+	color:#1e3860;
+    font-size:45px;
+	font-weight:bold;
+}
+.intro2, .save1{
+	margin-top:30px;
+	font-size:20px;
+}
+.intro3, .save2{
+	background-color: #2f5b88;
+	color:white;
+	font-weight:bold;
+	padding:20px 30px 20px 30px;
+	letter-spacing:1px;
+}
+.ratings{
+	background-color:#1e3860;
+	color:white;
+	padding-top:10px;
+}
+.rating{
+	color:#87b9d7;
+	font-weight:bold;
+}
+.save1{
+	margin-top:22px;
+	font-size:20px;
+}
+.save2{
+	background-color: #2f5b88;
+	color:white;
+	font-weight:bold;
+	padding:20px 30px 20px 30px;
+	letter-spacing:1px;
+}
+.save3, .view, .read{
+	color:#2f5b88;
+}
+.banks{
+	color:#1e3860;
+    font-size:42px;
+	font-weight:bold;
+	text-align:center;
+	margin-bottom:20px;
+}
+.bank1{
+	font-size:18px;
+	text-align:center;
+	margin-bottom:50px;
+}
+.bank2{
+	color:#2f5b88;
+	font-size:30px;
+	font-weight:bold;
+}
+.bank3{
+	font-size:17px;
+	margin-top:20px;
+}
+.bankimg{
+	border:1px solid grey;
+	padding:20px 10px 20px 10px;
+	border-radius:20px;
+}
+.credit{
+	background-color:#001a33;
+	color:white;
+	border-radius:50px;
+	padding-left:80px;
+}
+.card{
+	margin-top:100px;
+}
+.card1{
+	 font-size:20px;
+}
+
+.card2{
+	 line-height:1.6;
+	 margin-top:20px;
+}
+.premier{
+	 margin-top:20px;
+	 color:#1e3860;
+	  font-weight:bold;
+}
+.article1{
+	color:#1e3860;
+    font-weight:bold;
+	line-height:1.2em;
+	font-size :33px;
+	margin-top:50px;
+}
+.article2{
+	color:#2f5b88;
+	font-size :18px;
+	margin-left:175px;
+}
+.article{
+	color:#1e3860;
+    font-weight:bold;
+	font-size :23px;
+	line-height:1.3em;
+}
+.articles{
+	line-height:1.6em;
+	font-size :15px;
+	letter-spacing:1px;
+	padding-bottom :20px;
+}
+.readmore{
+	color:#2f5b88;
+	font-size :18px;
+}
+
+.app{
+	color:white;
+	font-size :15px;
+	border-radius :20px;
+	padding-top :40px;
+	padding-bottom :40px;
+	background-color:#1e3860 ;
+	margin-top:40px;
+}
+.text1{
+	color:#87b9d7;
+	font-weight:bold;
+	font-size :18px;
+}
+.text2{
+	line-spacing:1.6em;
+	font-weight:bold;
+	
+}
+.quiz{
+	margin-left:300px;
+	color:#1e3860;
+}
+.quizz{
+	color:#1e3860;
+    font-weight:bold;
+}
+.ans{
+	max-width:1200px;
+	margin-left:50px;
+	font-size :20px;
+	background-color:#d4d4d4;
+	padding:20px;
+	border-radius:20px;
+}
+.text3{
+	font-size :20px;
+	line-height:1.6em;
+}
+.ques{
+	font-weight:bold;
+	font-size :33px;
+	margin-top:30px;
+	text-align:center;
+}
+.quest{
+	font-weight:bold;
+	font-size :25px;
+}
+.box{
+	border:1px solid hidden;
+	border-radius :20px;
+	background-color:#20374f;																														
+	color:white;
+}
+.questions{
+	background-color:#14263d;
+	color:white;
+	padding-bottom:50px;
+}
+.cal1{
+	color:#1e3860;
+    font-weight:bold;
+	line-height:1.2em;
+	font-size :33px;
+	margin-top:50px;
+}
+.cal2{
+	color:#2f5b88;
+	font-size :18px;
+	margin-left:70px;
+}
+.calci1{
+	color:#1e3860;
+    font-weight:bold;
+}
+.calci2{
+	color:#2f5b88;
+	font-size :18px;
+}
+.calci{
+	border:1px solid #d4d4d4;
+	border-radius :20px;
+	padding-top :30px;
+	padding-bottom :20px;
+}
+.b{
+	background-color:#d4d4d4;
+	color:#2f5b88;
+	font-size:14px;
+	border-radius:10px;
+    padding:20px 40px 20px 20px;
+	font-weight:bold;
+	margin-top:40px;
+}
+.headertop{
+	border-bottom:1px solid #dedede;
+	padding-bottom:10px;
+	color:#1e3860;
+	font-size:40px;
+}
+.header{
+	color:#1e3860;
+	font-size:20px;
+}
+.footer{
+	color: #fff;
+    background-color:#14263d;
+    padding: 32px 0;
+    width: 100%;
+	font-size:16px;
+}
+.bank, .borrow, .invest, .plan{
+	background-color: #1e3860;
+	color:white;			
+	padding-bottom:	40px;
+	padding-top:15px;
+ 	border-radius:20px;
+}	
+.heading1{
+    font-weight:bold;
+	font-size:23px;
+	color:white;
+}
+.help{
+	color: #1e3860;
+	font-size:14px;
+	font-weight:bold;
+	margin-right:30px;
+}
+.header1{
+	color: #1e3860;
+    font-size:24px;
+}		
+.header{
+	font-size:18px;
+	font-weight:bold;
+}
+.paragragh{
+   font-size:18px;
+}
+.learnmore1, .quote, .getapp{
+	color:	#2f5b88;	
+	font-size:16px;
+	font-weight:bold;
+}
+.list{
+   margin-top:10px;font-size: 16px;
+   line-height: 1.6;
+   margin-left:10px;	color:	black;		
+}
